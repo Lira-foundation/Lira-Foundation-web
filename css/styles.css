@@ -372,7 +372,7 @@ input[type='checkbox'] {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #000000;
+	background-color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -390,7 +390,7 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-text {
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 	font-size: 1.875rem;
 	line-height: 1rem;
@@ -407,7 +407,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #000000;
+	background-color: #ffffff;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -427,7 +427,7 @@ input[type='checkbox'] {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -457,13 +457,13 @@ input[type='checkbox'] {
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 	border: none;
-	background-color: #000000;
+	background-color: #ffffff;
 }
 
 .navbar .dropdown-item {
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -471,7 +471,7 @@ input[type='checkbox'] {
 }
 
 .navbar .dropdown-item:hover {
-	background-color: #000000;
+	background-color: #ffffff;
 	color: #9c9ead;
 }
 
@@ -496,12 +496,12 @@ input[type='checkbox'] {
 }
 
 .navbar .fa-stack-1x {
-	color: #ffffff;
+	color: #000000;
 	transition: all 0.2s ease;
 }
 
 .navbar .fa-stack:hover .fa-stack-2x {
-	color: #ffffff;
+	color: #000000;
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
@@ -512,6 +512,7 @@ input[type='checkbox'] {
 	padding: 0;
 	border: none;
 	font-size: 1.25rem;
+        color: #000000;
 }
 
 
