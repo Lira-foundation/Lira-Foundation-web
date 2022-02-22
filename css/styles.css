@@ -932,6 +932,10 @@ background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 
 	color: #9da6ac;
 }
 
+.favi-logo-image img {
+    width: 100px;
+	height: 100px;
+}
 
 /******************************/
 /*     Back To Top Button     */
