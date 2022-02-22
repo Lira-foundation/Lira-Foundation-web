@@ -140,6 +140,7 @@ a:hover {
 
 .blue {
 	color: #2259ec;
+        font-size: 17px;
 }
 
 .bg-gray {
@@ -687,6 +688,33 @@ background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 
 	margin-bottom: 0.75rem;
 }
 
+
+
+
+.spl .a-1 {
+	height: 430px;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.spl .area-2 {
+	padding-top: 7.75rem;
+	padding-bottom: 7.75rem;
+}
+
+.spl p {
+	margin-bottom: 2.25rem;
+}
+
+.spl .icons-container {
+	margin-top: 3rem;
+}
+
+.spl .icons-container img {
+	width: 50px;
+	margin-right: 0.625rem;
+	margin-bottom: 0.75rem;
+}
 
 /********************/
 /*     Projects     */
