@@ -747,6 +747,18 @@ background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 
 } 
 /* end of hover animation */
 
+.pbt strong {
+              color: #ffffff;
+}
+
+.pbt {
+        padding: 2px;
+        color: #ffffff;
+}
+
+.pbt a {
+        color: #ffffff;
+}
 
 /************************/
 /*     Testimonials     */
