@@ -372,6 +372,16 @@ input[type='checkbox'] {
 }
 
 
+.qr img {
+    width: 200px;
+	height: 200px;
+}
+
+.text-container .first img {
+    width: 200px;
+	height: 200px;
+}
+
 /**********************/
 /*     Navigation     */
 /**********************/
