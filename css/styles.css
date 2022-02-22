@@ -373,17 +373,17 @@ input[type='checkbox'] {
 
 
 .qr img {
-    width: 1800px;
-	height: 1800px;
+    width: 900px;
+	height: 900px;
 }
 
 .text-container .first img {
-    width: 1800px;
-	height: 1800px;
+    width: 900px;
+	height: 900px;
 }
 
 .address {
-         font-size: 5px;   
+         font-size: 15px;   
 }
 
 /**********************/
