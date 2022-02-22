@@ -962,13 +962,13 @@ a.back-to-top {
 	width: 42px;
 	height: 42px;
 	border-radius: 30px;
-	background: #3a424d url("../images/up-arrow.png") no-repeat center 47%;
+	background: #A776F2 url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 18px 18px;
 	text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-	background-color: #0b36a8;
+	background-color: #E7D7FC;
 }
 
 
