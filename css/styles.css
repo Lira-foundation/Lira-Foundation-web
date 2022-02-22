@@ -627,11 +627,14 @@ background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 
 }
 
 .text-box {
-        background-color: #853AEC;
-        color: #ffffff;
+        background-color: #A776F2;
 }
 
 .tbt {
+       color: #ffffff;
+}
+
+.tba {
        color: #ffffff;
 }
 
