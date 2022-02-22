@@ -924,12 +924,13 @@ background-image: url(“data:image/svg+xml;charset=utf8, %3Csvg viewBox=’0 0 
 }
 
 .copyright .p-small {
-	color: #9da6ac;
+	color: #ffffff;
 	text-align: center;
+        font-size: 22px;
 }
 
 .copyright a {
-	color: #9da6ac;
+	color: #ffffff;
 }
 
 .favi-logo-image img {
